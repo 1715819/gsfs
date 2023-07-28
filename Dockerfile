@@ -1,1 +1,1 @@
-FROM ghcr.io/gngpp/opengpt:latest
+FROM xyouxiu6/opengpt:v1

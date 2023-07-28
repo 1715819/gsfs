@@ -1,1 +1,1 @@
-FROM xyouxiu6/opengpt:v1
+FROM xyouxiu6/opengpt:0.2.5
